@@ -1,6 +1,7 @@
 # 🔮 Future Regret Prediction AI Agent
 
-> A shallow AI agent that predicts potential future regret based on your current habits, skills, and lifestyle decisions — then gives you a corrective action plan.
+> A Future Regret Prediction AI Agent is a rule-based shallow AI system that analyzes daily habits, productivity, distractions, and career goals to predict potential future regret. It generates a regret score, identifies risk areas like career and skill gaps, and provides a clear corrective action plan. Built using Python, Streamlit, and SQLite, this project shows how simple logic-driven AI can deliver meaningful real-world insights without complex models or external APIs.
+
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red?logo=streamlit)
