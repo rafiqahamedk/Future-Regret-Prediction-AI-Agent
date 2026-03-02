@@ -9,13 +9,23 @@
 
 ---
 
-## 📸 Screenshots
+## ⚡ Why This Project?
 
-| Login Page | Analysis Report | Weekly Tracking |
-|:---:|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Report](screenshots/report.png) | ![Tracking](screenshots/tracking.png) |
+| Problem | Our Solution |
+|---------|-------------|
+| People don't realize small daily habits compound into major life regret | **Quantifies regret risk** with a 0–100 score |
+| No tool connects daily routines to long-term career goals | **Career-specific benchmarks** for 7 different paths |
+| Generic advice doesn't account for individual lifestyle | **Personalized gap analysis** based on YOUR data |
+| People know what to do but not what to STOP | **STOP/START framework** with priority & impact |
+| Progress is invisible without tracking | **Weekly snapshots** with trend charts & comparison |
 
-> *Add your own screenshots to a `screenshots/` folder after running the app.*
+### What Makes This Unique
+
+- 🧠 **No API keys, no cloud, no GPU** — runs 100% offline on any machine
+- 🎯 **Career-aware intelligence** — a Software Engineer gets different advice than a Govt Job aspirant
+- 📉 **Time-horizon simulation** — see how today's habits look in 3 months vs 2 years
+- 🔒 **Privacy-first** — all data stays in a local SQLite file, nothing leaves your machine
+- 💡 **Explainable AI** — every score and recommendation traces back to specific habit gaps
 
 ---
 
